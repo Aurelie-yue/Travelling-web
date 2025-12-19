@@ -21,13 +21,13 @@ export const allSpots=[{
     name:"西湖",
     img:'https://img.jpg',
     description:"位于浙江杭州市西湖区，有 “欲把西湖比西子，淡妆浓抹总相宜” 的美誉，湖光山色如诗如画，古迹遍布，自然与人文浑然相融。",
-    price:free},
+    price:'免费'},
     {
     id:5,
     name:"丽江古城",
     img:'https://img.jpg',
     description:"位于云南丽江市古城区，是世界文化遗产，有独特的纳西族建筑和东巴文化，古街古巷韵味十足，还能欣赏纳西古乐和传统手工艺。",
-    price:free},
+    price:'免费'},
     {
     id:6,
     name:"长白山",
@@ -63,7 +63,7 @@ export const allSpots=[{
     name:"洪崖洞",
     img:'https://img.jpg',
     description:"位于重庆市，是著名的旅游景点，以吊脚楼风貌为主体，集巴渝民俗文化与饮食娱乐于一体，依山临江而建。",
-    price:free},
+    price:'免费'},
     {
     id:12,
     name:"张家界",
@@ -81,7 +81,7 @@ export const allSpots=[{
     name:"涠洲岛",
     img:'https://img.jpg',
     description:"位于广西北海市，是中国最大的火山岛，以其独特的火山地貌、清澈的海水和丰富的海洋生物而闻名。",
-    price:free},
+    price:'免费'},
     {
     id:15,
     name:"苏州园林",
@@ -93,13 +93,13 @@ export const allSpots=[{
     name:"橘子洲头",
     img:'https://img.jpg',
     description:"位于湖南省长沙市，是著名的文化景观，因盛产美橘得名，也是毛泽东《沁园春・长沙》的创作地。",
-    price:free},
+    price:'免费'},
     {
     id:17,
     name:"秦淮河",
     img:'https://img.jpg',
     description:"位于江苏省南京市，是著名的文化景观，以其独特的水乡风貌和丰富的历史文化而闻名。",
-    price:free},
+    price:'免费'},
     {
     id:18,
     name:"黄鹤楼",

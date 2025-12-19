@@ -1,9 +1,9 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 
-import Home from '@/views/Home.vue';
-import List from '@/views/List.vue';
-import Detail from '@/views/Detail.vue';
-import User from '@/views/User.vue';
+import Home from '../views/Home.vue';
+import List from '../views/List.vue';
+import Detail from '../views/Detail.vue';
+import User from '../views/User.vue';
 
 const routes = [
     {path: '/', component: Home},//首页
